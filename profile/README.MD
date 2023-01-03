@@ -1,6 +1,6 @@
 # ShopVidz Organization
 
-![logo](logo-dark.png)
+![logo](logo.png)
 
 ## Contributors
 
