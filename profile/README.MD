@@ -1,6 +1,6 @@
 # ShopVidz Organization
 
-![logo](logo.png)
+![logo](https://raw.githubusercontent.com/ShopVidz/.github/main/profile/logo.png)
 
 ## Contributors
 
