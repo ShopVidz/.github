@@ -1,5 +1,3 @@
-# ShopVidz, LLC
-
 <img src="https://raw.githubusercontent.com/ShopVidz/.github/main/profile/darkmode-friendly-logo.png" width=450 style="margin: 0 auto; display: block" >
 
 ---
