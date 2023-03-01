@@ -1,6 +1,8 @@
-# ShopVidz Organization
+# ShopVidz, LLC
 
-![logo](https://raw.githubusercontent.com/ShopVidz/.github/main/profile/darkmode-friendly-logo.png)
+<img src="https://raw.githubusercontent.com/ShopVidz/.github/main/profile/darkmode-friendly-logo.png" width=450 style="margin: 0 auto; display: block" >
+
+---
 
 ## Contributors
 
